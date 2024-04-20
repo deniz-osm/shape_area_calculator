@@ -1,0 +1,14 @@
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/bin/Debug/net8.0/shapeareacalculator
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/bin/Debug/net8.0/shapeareacalculator.deps.json
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/bin/Debug/net8.0/shapeareacalculator.runtimeconfig.json
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/bin/Debug/net8.0/shapeareacalculator.dll
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/bin/Debug/net8.0/shapeareacalculator.pdb
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/shapeareacalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/shapeareacalculator.AssemblyInfoInputs.cache
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/shapeareacalculator.AssemblyInfo.cs
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/shapeareacalculator.csproj.CoreCompileInputs.cache
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/shapeareacalculator.dll
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/refint/shapeareacalculator.dll
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/shapeareacalculator.pdb
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/shapeareacalculator.genruntimeconfig.cache
+/Users/annelie/Desktop/C# Prep/shapeareacalculator/obj/Debug/net8.0/ref/shapeareacalculator.dll
